@@ -1,0 +1,2 @@
+# Smart-Shopper
+A web application to track user’s items on cart, details and amount along with their previous transactions. A Walk-in Walk-out supermarket with personalized advertisements based on user’s purchases. Automated billing/checkout when leaving the store by deducting amount payable through an online wallet. Frequent items bought together are analyzed by Apriori Algorithm to find products of interest to users. RFID Readers, with specific range, are integrated to shopping carts to detect items placed and removed from the cart. 
